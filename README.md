@@ -43,13 +43,20 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align="center">
-  <a href="https://github.com/tranhtuan204-create">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhtuan204-create&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/tranhtuan204-create">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tranhtuan204-create&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/tranhtuan204-create">
+          <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhtuan204-create&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/tranhtuan204-create">
+          <img height="195" src="https://github-readme-stats.vercel.app/api?username=tranhtuan204-create&show_icons=true&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
