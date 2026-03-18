@@ -42,13 +42,13 @@
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align="center">
-  <img width="315" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tranhtuan204-create&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  
-  <img align="right" width="434" src="https://github-readme-stats-fast.vercel.app/api?username=tranhtuan204-create&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</div>
-<br>
+<a href="https://github.com/tranhtuan204-create">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhtuan204-create&layout=compact&hide=html,css&theme=github_dark" />
+</a>
+</b>  
+<a href="https://github.com/tranhtuan204-create">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tranhtuan204-create&show_icons=true&theme=github_dark" alt="tranhtuan204-create's GitHub Stats" />
+</a>
 
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
