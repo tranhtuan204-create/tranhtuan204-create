@@ -5,7 +5,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <div align="center">
-  <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
@@ -19,9 +19,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=7952B3" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-update
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=7952B3" alt="C logo" title="C" height="25" /></span>
-update
 &nbsp;
 <span><img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=7952B3" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
