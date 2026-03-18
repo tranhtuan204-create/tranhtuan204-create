@@ -1,7 +1,9 @@
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=tranhtuan204-create&color=blue" alt="Profile views" />
+<div align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tranhtuan204-create&color=blue" alt="Profile views" />
 </div>
 
 # Welcome to my GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px">
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <div align="center">
@@ -59,16 +61,10 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tranhtuan204-create&theme=tokyonight&hide_border=true" />
-</div>
-
-
-
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
   </a>
 </div>
