@@ -42,13 +42,19 @@
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<a href="https://github.com/tranhtuan204-create">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhtuan204-create&layout=compact&hide=html,css&theme=github_dark" />
-</a>
-</b>  
-<a href="https://github.com/tranhtuan204-create">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tranhtuan204-create&show_icons=true&theme=github_dark" alt="tranhtuan204-create's GitHub Stats" />
-</a>
+<div align="center">
+  <a href="https://github.com/tranhtuan204-create">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhtuan204-create&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/tranhtuan204-create">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tranhtuan204-create&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tranhtuan204-create&theme=tokyonight&hide_border=true" />
+</div>
 
 
 
